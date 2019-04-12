@@ -3,7 +3,7 @@ hubot + slack連携のJIRAチケット作成処理の簡略化サンプル
 
 * 親タスク（issue）、サブタスク作成機能
 * Json設定のみで、様々なタイプのissueに対応可
-* 営業計算による期限日（duedate）の設定
+* 営業計算による期限日（duedate）の設定簡略化
 
 ##### npm module
 * forever
